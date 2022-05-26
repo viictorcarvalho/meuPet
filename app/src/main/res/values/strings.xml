@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Meu pet</string>
+    <string name="nome_pet">1. Nome do pet: Robert</string>
+    <string name="raca_pet">2. Raça pet: Furão</string>
+    <string name="idade_pet">3. Idade pet: 2 anos</string>
+    <string name="meu_pet">ESSA É A FOTO DO MEU PET</string>
+    <string name="descricao_img">Um furão cinza e branco</string>
+    <string name="mensagem">MENSAGEM</string>
+</resources>
